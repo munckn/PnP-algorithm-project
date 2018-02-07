@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\utilisateurs\cjmun\bureau\modelregistration - complex objects\test\source.cpp(48): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+  d:\utilisateurs\cjmun\bureau\modelregistration - complex objects\test\source.cpp(48): note: les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+  d:\utilisateurs\cjmun\bureau\modelregistration - complex objects\test\source.cpp(48): note: l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+  d:\utilisateurs\cjmun\bureau\modelregistration - complex objects\test\source.cpp(48): note: cet argument est utilisé comme taille de mémoire tampon
+d:\utilisateurs\cjmun\bureau\modelregistration - complex objects\test\source.cpp(89): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\utilisateurs\cjmun\bureau\modelregistration - complex objects\test\source.cpp(109): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\utilisateurs\cjmun\bureau\modelregistration - complex objects\test\source.cpp(228): warning C4551: liste d'arguments manquante dans l'appel de fonction
+  test.vcxproj -> D:\Utilisateurs\cjmun\Bureau\Modelregistration - complex objects\x64\Debug\test.exe

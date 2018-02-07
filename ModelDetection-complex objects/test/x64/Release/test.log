@@ -1,0 +1,18 @@
+﻿  main_detection.cpp
+C:\opencv\sources\samples\cpp\tutorial_code\calib3d\real_time_pose_estimation\src\main_detection.cpp(5): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2//core.hpp' : No such file or directory
+  CsReader.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\CvsReader.h(6): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory
+  CsvWriter.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\CsvWriter.h(6): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory
+  Mesh.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\Mesh.h(12): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory
+  Model.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\Model.h(12): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory
+  ModelRegistration.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\ModelRegistration.h(12): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory
+  PnPProblem.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\PnPProblem.h(13): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory
+  RobustMatcher.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\RobustMatcher.h(13): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory
+  Utils.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\PnPProblem.h(13): fatal error C1083: Impossible d'ouvrir le fichier include : 'opencv2/core/core.hpp' : No such file or directory

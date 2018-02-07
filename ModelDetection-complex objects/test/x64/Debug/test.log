@@ -1,0 +1,3 @@
+﻿  detection_main_sfm.cpp
+d:\utilisateurs\cjmun\bureau\modeldetection\test\detection_main_sfm.cpp(192): warning C4101: 'dist' : variable locale non référencée
+  test.vcxproj -> D:\Utilisateurs\cjmun\Bureau\ModelDetection\x64\Debug\test.exe

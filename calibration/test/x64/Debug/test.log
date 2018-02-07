@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (test.vcxproj). Cela peut entraîner un comportement de nettoyage et de régénération incorrect.
+  mainCalibration.cpp
+  test.vcxproj -> D:\Utilisateurs\cjmun\Bureau\PING51PnP\PnP-algorithm-project\calibration\x64\Debug\Calibration.exe
